@@ -59,7 +59,7 @@ Open inventory.db in PyCharm’s Database Tool to view tables and records.
 Every script includes an if __name__ == '__main__' block for modular execution.
 
 📺 Related Resources
-🎥 Watch the full tutorial on YouTube
+🎥 Watch the full tutorial on YouTube --> https://youtu.be/TUAOe0shxpo?si=fqXX5Y02kQ7Rs3yA
 
 📖 Read the companion blog post
 
