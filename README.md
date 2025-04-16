@@ -11,11 +11,11 @@ Welcome to this beginner-friendly Python ORM (Object-Relational Mapping) project
 - ✅ How foreign keys connect tables
 - ✅ How to structure an ORM project using clean, modular Python files
 - ✅ How to:
-- --Create a database (SQLite)
-- --Define models using classes
-- --Insert, filter, update, and delete records
-- --Query relationships using .filter() and .join()
-- --Test everything step-by-step with main.py
+-   --Create a database (SQLite)
+-   --Define models using classes
+-   --Insert, filter, update, and delete records
+-   --Query relationships using .filter() and .join()
+-   --Test everything step-by-step with main.py
 
 🛠 Project Overview
 This project simulates a mini inventory system involving:
@@ -47,7 +47,7 @@ Each product belongs to one supplier, while a supplier can provide many products
 - pip install sqlalchemy
 4. Run the Main Script
 - python main.py
-Each step (create, insert, query, filter, update, delete) will run in sequence with helpful printouts.
+- --Each step (create, insert, query, filter, update, delete) will run in sequence with helpful printouts.
 
 💡 Bonus Tips
 You can also run each script independently to test parts one at a time.
