@@ -5,12 +5,12 @@ Welcome to this beginner-friendly Python ORM (Object-Relational Mapping) project
 👉 YouTube Video Link (Replace with your actual video link)
 
 📚 What You'll Learn
-✅ What Python ORM is and how it works
-✅ The difference between SQLAlchemy Core and SQLAlchemy ORM
-✅ What a one-to-many relationship looks like in code
-✅ How foreign keys connect tables
-✅ How to structure an ORM project using clean, modular Python files
-✅ How to:
+- ✅ What Python ORM is and how it works
+- ✅ The difference between SQLAlchemy Core and SQLAlchemy ORM
+- ✅ What a one-to-many relationship looks like in code
+- ✅ How foreign keys connect tables
+- ✅ How to structure an ORM project using clean, modular Python files
+- ✅ How to:
 
 Create a database (SQLite)
 
