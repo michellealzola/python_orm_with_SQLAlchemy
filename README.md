@@ -12,15 +12,15 @@ Welcome to this beginner-friendly Python ORM (Object-Relational Mapping) project
 - ✅ How to structure an ORM project using clean, modular Python files
 - ✅ How to:
 
-Create a database (SQLite)
+--Create a database (SQLite)
 
-Define models using classes
+--Define models using classes
 
-Insert, filter, update, and delete records
+--Insert, filter, update, and delete records
 
-Query relationships using .filter() and .join()
+--Query relationships using .filter() and .join()
 
-Test everything step-by-step with main.py
+--Test everything step-by-step with main.py
 
 🛠 Project Overview
 This project simulates a mini inventory system involving:
