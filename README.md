@@ -61,7 +61,7 @@ Every script includes an if __name__ == '__main__' block for modular execution.
 📺 Related Resources
 🎥 Watch the full tutorial on YouTube --> https://youtu.be/TUAOe0shxpo?si=fqXX5Y02kQ7Rs3yA
 
-📖 Read the companion blog post
+📖 Read the companion blog post --> https://python.michellealzoladesign.com/understanding-python-orm-with-sqlalchemy-a-beginners-guide-video-walkthrough/
 
 📬 Feedback & Contributions
 If you found this useful, feel free to star the repo and share it with others.
