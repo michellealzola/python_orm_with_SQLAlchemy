@@ -1,4 +1,5 @@
-Python ORM with SQLAlchemy – Beginner Project
+Python ORM with SQLAlchemy – Beginner Project 
+
 Welcome to this beginner-friendly Python ORM (Object-Relational Mapping) project using SQLAlchemy! This repo is designed to help you learn how to build and interact with databases in Python without writing raw SQL.
 
 🎥 Watch the full video tutorial here
