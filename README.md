@@ -36,6 +36,8 @@ Each product belongs to one supplier, while a supplier can provide many products
 - ├── update.py             # Updates product prices
 - ├── delete.py             # Deletes a product from inventory
 - ├── main.py               # Runs all tasks in sequence for testing
+
+  
 ▶️ How to Run
 1. Clone the Repo
 - git clone https://github.com/your-username/python-orm-sqlalchemy-tutorial.git
