@@ -38,15 +38,15 @@ Each product belongs to one supplier, while a supplier can provide many products
 - ├── main.py               # Runs all tasks in sequence for testing
 ▶️ How to Run
 1. Clone the Repo
-git clone https://github.com/your-username/python-orm-sqlalchemy-tutorial.git
-cd python-orm-sqlalchemy-tutorial
+- git clone https://github.com/your-username/python-orm-sqlalchemy-tutorial.git
+- cd python-orm-sqlalchemy-tutorial
 2. (Optional) Create a Virtual Environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+- python -m venv venv
+- source venv/bin/activate  # On Windows: venv\Scripts\activate
 3. Install Requirements
-pip install sqlalchemy
+- pip install sqlalchemy
 4. Run the Main Script
-python main.py
+- python main.py
 Each step (create, insert, query, filter, update, delete) will run in sequence with helpful printouts.
 
 💡 Bonus Tips
